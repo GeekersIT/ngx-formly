@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-nativescript-checkbox.mjs",
+  "es2020": "../fesm2020/ngx-formly-nativescript-checkbox.mjs",
+  "esm2020": "../esm2020/checkbox/ngx-formly-nativescript-checkbox.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-nativescript-checkbox.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-nativescript-checkbox.mjs",
+  "typings": "ngx-formly-nativescript-checkbox.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/nativescript/checkbox"
+}

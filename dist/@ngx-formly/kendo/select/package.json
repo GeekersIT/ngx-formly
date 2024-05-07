@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-kendo-select.mjs",
+  "es2020": "../fesm2020/ngx-formly-kendo-select.mjs",
+  "esm2020": "../esm2020/select/ngx-formly-kendo-select.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-kendo-select.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-kendo-select.mjs",
+  "typings": "ngx-formly-kendo-select.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/kendo/select"
+}

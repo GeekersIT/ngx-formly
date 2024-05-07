@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of ng-zorro-antd
+ */
+export * from './lib/ui-ng-zorro-antd';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3NyYy91aS9uZy16b3Jyby1hbnRkL3NyYy9wdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx3QkFBd0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygbmctem9ycm8tYW50ZFxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL3VpLW5nLXpvcnJvLWFudGQnO1xuIl19

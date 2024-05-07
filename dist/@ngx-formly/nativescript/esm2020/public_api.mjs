@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of material
+ */
+export * from './lib/ui-nativescipt';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3NyYy91aS9uYXRpdmVzY3JpcHQvc3JjL3B1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLHNCQUFzQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBtYXRlcmlhbFxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL3VpLW5hdGl2ZXNjaXB0JztcbiJdfQ==

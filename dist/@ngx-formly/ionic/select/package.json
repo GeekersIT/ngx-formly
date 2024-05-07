@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-ionic-select.mjs",
+  "es2020": "../fesm2020/ngx-formly-ionic-select.mjs",
+  "esm2020": "../esm2020/select/ngx-formly-ionic-select.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-ionic-select.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-ionic-select.mjs",
+  "typings": "ngx-formly-ionic-select.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/ionic/select"
+}

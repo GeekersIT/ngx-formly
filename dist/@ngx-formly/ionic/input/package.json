@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-ionic-input.mjs",
+  "es2020": "../fesm2020/ngx-formly-ionic-input.mjs",
+  "esm2020": "../esm2020/input/ngx-formly-ionic-input.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-ionic-input.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-ionic-input.mjs",
+  "typings": "ngx-formly-ionic-input.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/ionic/input"
+}

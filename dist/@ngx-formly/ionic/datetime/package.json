@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-ionic-datetime.mjs",
+  "es2020": "../fesm2020/ngx-formly-ionic-datetime.mjs",
+  "esm2020": "../esm2020/datetime/ngx-formly-ionic-datetime.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-ionic-datetime.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-ionic-datetime.mjs",
+  "typings": "ngx-formly-ionic-datetime.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/ionic/datetime"
+}

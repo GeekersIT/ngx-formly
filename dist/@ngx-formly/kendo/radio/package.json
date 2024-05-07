@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-kendo-radio.mjs",
+  "es2020": "../fesm2020/ngx-formly-kendo-radio.mjs",
+  "esm2020": "../esm2020/radio/ngx-formly-kendo-radio.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-kendo-radio.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-kendo-radio.mjs",
+  "typings": "ngx-formly-kendo-radio.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/kendo/radio"
+}

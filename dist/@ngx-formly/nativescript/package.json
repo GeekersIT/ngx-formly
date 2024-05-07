@@ -1,0 +1,90 @@
+{
+  "name": "@ngx-formly/nativescript",
+  "version": "6.3.0",
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@ngx-formly/core": "6.3.0",
+    "@nativescript/angular": ">=13.0.0",
+    "@nativescript/core": ">=8.1.0"
+  },
+  "module": "fesm2015/ngx-formly-nativescript.mjs",
+  "es2020": "fesm2020/ngx-formly-nativescript.mjs",
+  "esm2020": "esm2020/ngx-formly-nativescript.mjs",
+  "fesm2020": "fesm2020/ngx-formly-nativescript.mjs",
+  "fesm2015": "fesm2015/ngx-formly-nativescript.mjs",
+  "typings": "ngx-formly-nativescript.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./ngx-formly-nativescript.d.ts",
+      "esm2020": "./esm2020/ngx-formly-nativescript.mjs",
+      "es2020": "./fesm2020/ngx-formly-nativescript.mjs",
+      "es2015": "./fesm2015/ngx-formly-nativescript.mjs",
+      "node": "./fesm2015/ngx-formly-nativescript.mjs",
+      "default": "./fesm2020/ngx-formly-nativescript.mjs"
+    },
+    "./checkbox": {
+      "types": "./checkbox/ngx-formly-nativescript-checkbox.d.ts",
+      "esm2020": "./esm2020/checkbox/ngx-formly-nativescript-checkbox.mjs",
+      "es2020": "./fesm2020/ngx-formly-nativescript-checkbox.mjs",
+      "es2015": "./fesm2015/ngx-formly-nativescript-checkbox.mjs",
+      "node": "./fesm2015/ngx-formly-nativescript-checkbox.mjs",
+      "default": "./fesm2020/ngx-formly-nativescript-checkbox.mjs"
+    },
+    "./form-field": {
+      "types": "./form-field/ngx-formly-nativescript-form-field.d.ts",
+      "esm2020": "./esm2020/form-field/ngx-formly-nativescript-form-field.mjs",
+      "es2020": "./fesm2020/ngx-formly-nativescript-form-field.mjs",
+      "es2015": "./fesm2015/ngx-formly-nativescript-form-field.mjs",
+      "node": "./fesm2015/ngx-formly-nativescript-form-field.mjs",
+      "default": "./fesm2020/ngx-formly-nativescript-form-field.mjs"
+    },
+    "./radio": {
+      "types": "./radio/ngx-formly-nativescript-radio.d.ts",
+      "esm2020": "./esm2020/radio/ngx-formly-nativescript-radio.mjs",
+      "es2020": "./fesm2020/ngx-formly-nativescript-radio.mjs",
+      "es2015": "./fesm2015/ngx-formly-nativescript-radio.mjs",
+      "node": "./fesm2015/ngx-formly-nativescript-radio.mjs",
+      "default": "./fesm2020/ngx-formly-nativescript-radio.mjs"
+    },
+    "./select": {
+      "types": "./select/ngx-formly-nativescript-select.d.ts",
+      "esm2020": "./esm2020/select/ngx-formly-nativescript-select.mjs",
+      "es2020": "./fesm2020/ngx-formly-nativescript-select.mjs",
+      "es2015": "./fesm2015/ngx-formly-nativescript-select.mjs",
+      "node": "./fesm2015/ngx-formly-nativescript-select.mjs",
+      "default": "./fesm2020/ngx-formly-nativescript-select.mjs"
+    },
+    "./text-field": {
+      "types": "./text-field/ngx-formly-nativescript-text-field.d.ts",
+      "esm2020": "./esm2020/text-field/ngx-formly-nativescript-text-field.mjs",
+      "es2020": "./fesm2020/ngx-formly-nativescript-text-field.mjs",
+      "es2015": "./fesm2015/ngx-formly-nativescript-text-field.mjs",
+      "node": "./fesm2015/ngx-formly-nativescript-text-field.mjs",
+      "default": "./fesm2020/ngx-formly-nativescript-text-field.mjs"
+    },
+    "./textarea": {
+      "types": "./textarea/ngx-formly-nativescript-textarea.d.ts",
+      "esm2020": "./esm2020/textarea/ngx-formly-nativescript-textarea.mjs",
+      "es2020": "./fesm2020/ngx-formly-nativescript-textarea.mjs",
+      "es2015": "./fesm2015/ngx-formly-nativescript-textarea.mjs",
+      "node": "./fesm2015/ngx-formly-nativescript-textarea.mjs",
+      "default": "./fesm2020/ngx-formly-nativescript-textarea.mjs"
+    }
+  },
+  "sideEffects": false,
+  "homepage": "https://github.com/ngx-formly/ngx-formly#readme",
+  "description": "Formly is a dynamic (JSON powered) form library for Angular that bring unmatched maintainability to your application's forms.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-formly/ngx-formly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngx-formly/ngx-formly/issues"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-ionic-checkbox.mjs",
+  "es2020": "../fesm2020/ngx-formly-ionic-checkbox.mjs",
+  "esm2020": "../esm2020/checkbox/ngx-formly-ionic-checkbox.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-ionic-checkbox.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-ionic-checkbox.mjs",
+  "typings": "ngx-formly-ionic-checkbox.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/ionic/checkbox"
+}

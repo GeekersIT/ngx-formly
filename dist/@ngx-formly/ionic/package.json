@@ -1,0 +1,113 @@
+{
+  "name": "@ngx-formly/ionic",
+  "version": "6.3.0",
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@ngx-formly/core": "6.3.0",
+    "@ionic/angular": "^6.0.0 || ^7.0.0"
+  },
+  "module": "fesm2015/ngx-formly-ionic.mjs",
+  "es2020": "fesm2020/ngx-formly-ionic.mjs",
+  "esm2020": "esm2020/ngx-formly-ionic.mjs",
+  "fesm2020": "fesm2020/ngx-formly-ionic.mjs",
+  "fesm2015": "fesm2015/ngx-formly-ionic.mjs",
+  "typings": "ngx-formly-ionic.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./ngx-formly-ionic.d.ts",
+      "esm2020": "./esm2020/ngx-formly-ionic.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic.mjs",
+      "node": "./fesm2015/ngx-formly-ionic.mjs",
+      "default": "./fesm2020/ngx-formly-ionic.mjs"
+    },
+    "./checkbox": {
+      "types": "./checkbox/ngx-formly-ionic-checkbox.d.ts",
+      "esm2020": "./esm2020/checkbox/ngx-formly-ionic-checkbox.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-checkbox.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-checkbox.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-checkbox.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-checkbox.mjs"
+    },
+    "./datetime": {
+      "types": "./datetime/ngx-formly-ionic-datetime.d.ts",
+      "esm2020": "./esm2020/datetime/ngx-formly-ionic-datetime.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-datetime.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-datetime.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-datetime.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-datetime.mjs"
+    },
+    "./form-field": {
+      "types": "./form-field/ngx-formly-ionic-form-field.d.ts",
+      "esm2020": "./esm2020/form-field/ngx-formly-ionic-form-field.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-form-field.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-form-field.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-form-field.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-form-field.mjs"
+    },
+    "./input": {
+      "types": "./input/ngx-formly-ionic-input.d.ts",
+      "esm2020": "./esm2020/input/ngx-formly-ionic-input.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-input.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-input.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-input.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-input.mjs"
+    },
+    "./radio": {
+      "types": "./radio/ngx-formly-ionic-radio.d.ts",
+      "esm2020": "./esm2020/radio/ngx-formly-ionic-radio.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-radio.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-radio.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-radio.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-radio.mjs"
+    },
+    "./select": {
+      "types": "./select/ngx-formly-ionic-select.d.ts",
+      "esm2020": "./esm2020/select/ngx-formly-ionic-select.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-select.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-select.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-select.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-select.mjs"
+    },
+    "./slider": {
+      "types": "./slider/ngx-formly-ionic-slider.d.ts",
+      "esm2020": "./esm2020/slider/ngx-formly-ionic-slider.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-slider.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-slider.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-slider.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-slider.mjs"
+    },
+    "./textarea": {
+      "types": "./textarea/ngx-formly-ionic-textarea.d.ts",
+      "esm2020": "./esm2020/textarea/ngx-formly-ionic-textarea.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-textarea.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-textarea.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-textarea.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-textarea.mjs"
+    },
+    "./toggle": {
+      "types": "./toggle/ngx-formly-ionic-toggle.d.ts",
+      "esm2020": "./esm2020/toggle/ngx-formly-ionic-toggle.mjs",
+      "es2020": "./fesm2020/ngx-formly-ionic-toggle.mjs",
+      "es2015": "./fesm2015/ngx-formly-ionic-toggle.mjs",
+      "node": "./fesm2015/ngx-formly-ionic-toggle.mjs",
+      "default": "./fesm2020/ngx-formly-ionic-toggle.mjs"
+    }
+  },
+  "sideEffects": false,
+  "homepage": "https://github.com/ngx-formly/ngx-formly#readme",
+  "description": "Formly is a dynamic (JSON powered) form library for Angular that bring unmatched maintainability to your application's forms.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-formly/ngx-formly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngx-formly/ngx-formly/issues"
+  }
+}

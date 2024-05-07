@@ -1,0 +1,19 @@
+import { Component, ChangeDetectionStrategy } from '@angular/core';
+import { FieldType } from '@ngx-formly/kendo/form-field';
+import * as i0 from "@angular/core";
+import * as i1 from "@progress/kendo-angular-inputs";
+import * as i2 from "@angular/forms";
+import * as i3 from "@ngx-formly/core";
+export class FormlyFieldTextArea extends FieldType {
+}
+FormlyFieldTextArea.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "13.3.12", ngImport: i0, type: FormlyFieldTextArea, deps: null, target: i0.ɵɵFactoryTarget.Component });
+FormlyFieldTextArea.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "12.0.0", version: "13.3.12", type: FormlyFieldTextArea, selector: "formly-field-kendo-textarea", usesInheritance: true, ngImport: i0, template: ` <textarea kendoTextArea [formControl]="formControl" [formlyAttributes]="field"></textarea> `, isInline: true, directives: [{ type: i1.TextAreaDirective, selector: "textarea[kendoTextArea]", inputs: ["autoSize", "value"], outputs: ["valueChange"] }, { type: i2.DefaultValueAccessor, selector: "input:not([type=checkbox])[formControlName],textarea[formControlName],input:not([type=checkbox])[formControl],textarea[formControl],input:not([type=checkbox])[ngModel],textarea[ngModel],[ngDefaultControl]" }, { type: i2.NgControlStatus, selector: "[formControlName],[ngModel],[formControl]" }, { type: i2.FormControlDirective, selector: "[formControl]", inputs: ["formControl", "disabled", "ngModel"], outputs: ["ngModelChange"], exportAs: ["ngForm"] }, { type: i3.ɵFormlyAttributes, selector: "[formlyAttributes]", inputs: ["formlyAttributes", "id"] }], changeDetection: i0.ChangeDetectionStrategy.OnPush });
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.3.12", ngImport: i0, type: FormlyFieldTextArea, decorators: [{
+            type: Component,
+            args: [{
+                    selector: 'formly-field-kendo-textarea',
+                    template: ` <textarea kendoTextArea [formControl]="formControl" [formlyAttributes]="field"></textarea> `,
+                    changeDetection: ChangeDetectionStrategy.OnPush,
+                }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidGV4dGFyZWEudHlwZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL3NyYy91aS9rZW5kby90ZXh0YXJlYS9zcmMvdGV4dGFyZWEudHlwZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLEVBQUUsU0FBUyxFQUFFLHVCQUF1QixFQUFRLE1BQU0sZUFBZSxDQUFDO0FBRXpFLE9BQU8sRUFBRSxTQUFTLEVBQW9CLE1BQU0sOEJBQThCLENBQUM7Ozs7O0FBYTNFLE1BQU0sT0FBTyxtQkFBb0IsU0FBUSxTQUF5Qzs7aUhBQXJFLG1CQUFtQjtxR0FBbkIsbUJBQW1CLDBGQUhwQiw4RkFBOEY7NEZBRzdGLG1CQUFtQjtrQkFML0IsU0FBUzttQkFBQztvQkFDVCxRQUFRLEVBQUUsNkJBQTZCO29CQUN2QyxRQUFRLEVBQUUsOEZBQThGO29CQUN4RyxlQUFlLEVBQUUsdUJBQXVCLENBQUMsTUFBTTtpQkFDaEQiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBDb21wb25lbnQsIENoYW5nZURldGVjdGlvblN0cmF0ZWd5LCBUeXBlIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5pbXBvcnQgeyBGaWVsZFR5cGVDb25maWcsIEZvcm1seUZpZWxkQ29uZmlnIH0gZnJvbSAnQG5neC1mb3JtbHkvY29yZSc7XG5pbXBvcnQgeyBGaWVsZFR5cGUsIEZvcm1seUZpZWxkUHJvcHMgfSBmcm9tICdAbmd4LWZvcm1seS9rZW5kby9mb3JtLWZpZWxkJztcblxuaW50ZXJmYWNlIFRleHRBcmVhUHJvcHMgZXh0ZW5kcyBGb3JtbHlGaWVsZFByb3BzIHt9XG5cbmV4cG9ydCBpbnRlcmZhY2UgRm9ybWx5VGV4dEFyZWFGaWVsZENvbmZpZyBleHRlbmRzIEZvcm1seUZpZWxkQ29uZmlnPFRleHRBcmVhUHJvcHM+IHtcbiAgdHlwZTogJ3RleHRhcmVhJyB8IFR5cGU8Rm9ybWx5RmllbGRUZXh0QXJlYT47XG59XG5cbkBDb21wb25lbnQoe1xuICBzZWxlY3RvcjogJ2Zvcm1seS1maWVsZC1rZW5kby10ZXh0YXJlYScsXG4gIHRlbXBsYXRlOiBgIDx0ZXh0YXJlYSBrZW5kb1RleHRBcmVhIFtmb3JtQ29udHJvbF09XCJmb3JtQ29udHJvbFwiIFtmb3JtbHlBdHRyaWJ1dGVzXT1cImZpZWxkXCI+PC90ZXh0YXJlYT4gYCxcbiAgY2hhbmdlRGV0ZWN0aW9uOiBDaGFuZ2VEZXRlY3Rpb25TdHJhdGVneS5PblB1c2gsXG59KVxuZXhwb3J0IGNsYXNzIEZvcm1seUZpZWxkVGV4dEFyZWEgZXh0ZW5kcyBGaWVsZFR5cGU8RmllbGRUeXBlQ29uZmlnPFRleHRBcmVhUHJvcHM+PiB7fVxuIl19

@@ -1,0 +1,91 @@
+{
+  "name": "@ngx-formly/kendo",
+  "version": "6.3.0",
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@ngx-formly/core": "6.3.0",
+    "@progress/kendo-angular-label": ">=4.0.0",
+    "@progress/kendo-angular-dropdowns": ">=7.0.2",
+    "@progress/kendo-angular-inputs": ">=9.0.3"
+  },
+  "module": "fesm2015/ngx-formly-kendo.mjs",
+  "es2020": "fesm2020/ngx-formly-kendo.mjs",
+  "esm2020": "esm2020/ngx-formly-kendo.mjs",
+  "fesm2020": "fesm2020/ngx-formly-kendo.mjs",
+  "fesm2015": "fesm2015/ngx-formly-kendo.mjs",
+  "typings": "ngx-formly-kendo.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./ngx-formly-kendo.d.ts",
+      "esm2020": "./esm2020/ngx-formly-kendo.mjs",
+      "es2020": "./fesm2020/ngx-formly-kendo.mjs",
+      "es2015": "./fesm2015/ngx-formly-kendo.mjs",
+      "node": "./fesm2015/ngx-formly-kendo.mjs",
+      "default": "./fesm2020/ngx-formly-kendo.mjs"
+    },
+    "./checkbox": {
+      "types": "./checkbox/ngx-formly-kendo-checkbox.d.ts",
+      "esm2020": "./esm2020/checkbox/ngx-formly-kendo-checkbox.mjs",
+      "es2020": "./fesm2020/ngx-formly-kendo-checkbox.mjs",
+      "es2015": "./fesm2015/ngx-formly-kendo-checkbox.mjs",
+      "node": "./fesm2015/ngx-formly-kendo-checkbox.mjs",
+      "default": "./fesm2020/ngx-formly-kendo-checkbox.mjs"
+    },
+    "./form-field": {
+      "types": "./form-field/ngx-formly-kendo-form-field.d.ts",
+      "esm2020": "./esm2020/form-field/ngx-formly-kendo-form-field.mjs",
+      "es2020": "./fesm2020/ngx-formly-kendo-form-field.mjs",
+      "es2015": "./fesm2015/ngx-formly-kendo-form-field.mjs",
+      "node": "./fesm2015/ngx-formly-kendo-form-field.mjs",
+      "default": "./fesm2020/ngx-formly-kendo-form-field.mjs"
+    },
+    "./input": {
+      "types": "./input/ngx-formly-kendo-input.d.ts",
+      "esm2020": "./esm2020/input/ngx-formly-kendo-input.mjs",
+      "es2020": "./fesm2020/ngx-formly-kendo-input.mjs",
+      "es2015": "./fesm2015/ngx-formly-kendo-input.mjs",
+      "node": "./fesm2015/ngx-formly-kendo-input.mjs",
+      "default": "./fesm2020/ngx-formly-kendo-input.mjs"
+    },
+    "./radio": {
+      "types": "./radio/ngx-formly-kendo-radio.d.ts",
+      "esm2020": "./esm2020/radio/ngx-formly-kendo-radio.mjs",
+      "es2020": "./fesm2020/ngx-formly-kendo-radio.mjs",
+      "es2015": "./fesm2015/ngx-formly-kendo-radio.mjs",
+      "node": "./fesm2015/ngx-formly-kendo-radio.mjs",
+      "default": "./fesm2020/ngx-formly-kendo-radio.mjs"
+    },
+    "./select": {
+      "types": "./select/ngx-formly-kendo-select.d.ts",
+      "esm2020": "./esm2020/select/ngx-formly-kendo-select.mjs",
+      "es2020": "./fesm2020/ngx-formly-kendo-select.mjs",
+      "es2015": "./fesm2015/ngx-formly-kendo-select.mjs",
+      "node": "./fesm2015/ngx-formly-kendo-select.mjs",
+      "default": "./fesm2020/ngx-formly-kendo-select.mjs"
+    },
+    "./textarea": {
+      "types": "./textarea/ngx-formly-kendo-textarea.d.ts",
+      "esm2020": "./esm2020/textarea/ngx-formly-kendo-textarea.mjs",
+      "es2020": "./fesm2020/ngx-formly-kendo-textarea.mjs",
+      "es2015": "./fesm2015/ngx-formly-kendo-textarea.mjs",
+      "node": "./fesm2015/ngx-formly-kendo-textarea.mjs",
+      "default": "./fesm2020/ngx-formly-kendo-textarea.mjs"
+    }
+  },
+  "sideEffects": false,
+  "homepage": "https://github.com/ngx-formly/ngx-formly#readme",
+  "description": "Formly is a dynamic (JSON powered) form library for Angular that bring unmatched maintainability to your application's forms.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-formly/ngx-formly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngx-formly/ngx-formly/issues"
+  }
+}

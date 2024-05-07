@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-kendo-checkbox.mjs",
+  "es2020": "../fesm2020/ngx-formly-kendo-checkbox.mjs",
+  "esm2020": "../esm2020/checkbox/ngx-formly-kendo-checkbox.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-kendo-checkbox.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-kendo-checkbox.mjs",
+  "typings": "ngx-formly-kendo-checkbox.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/kendo/checkbox"
+}

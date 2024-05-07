@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-nativescript-radio.mjs",
+  "es2020": "../fesm2020/ngx-formly-nativescript-radio.mjs",
+  "esm2020": "../esm2020/radio/ngx-formly-nativescript-radio.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-nativescript-radio.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-nativescript-radio.mjs",
+  "typings": "ngx-formly-nativescript-radio.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/nativescript/radio"
+}

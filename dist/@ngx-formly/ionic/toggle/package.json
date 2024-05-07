@@ -1,0 +1,10 @@
+{
+  "module": "../fesm2015/ngx-formly-ionic-toggle.mjs",
+  "es2020": "../fesm2020/ngx-formly-ionic-toggle.mjs",
+  "esm2020": "../esm2020/toggle/ngx-formly-ionic-toggle.mjs",
+  "fesm2020": "../fesm2020/ngx-formly-ionic-toggle.mjs",
+  "fesm2015": "../fesm2015/ngx-formly-ionic-toggle.mjs",
+  "typings": "ngx-formly-ionic-toggle.d.ts",
+  "sideEffects": false,
+  "name": "@ngx-formly/ionic/toggle"
+}
